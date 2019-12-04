@@ -10,6 +10,6 @@ VAE models included are:
 6. Conditional VAE
 7. VAE with 2D latent space
 
-P.S: Implementations were made based on the original paper of each model.
-Codes were written based on tensorflow=1.15 and its keras module
-All models are tested with MNIST dataset.
+P.S: Implementations were made based on the original paper of each model.<br />
+Codes were written based on tensorflow=1.15 and its keras module. <br />
+All models are tested with MNIST dataset and useful plots are included.
